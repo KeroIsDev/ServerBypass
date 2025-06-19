@@ -1,4 +1,5 @@
 {
   "esp": true,
-  "aimbot": false
+  "aimbot": false,
+  "bullet": false
 }
