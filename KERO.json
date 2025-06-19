@@ -1,7 +1,4 @@
 {
-  "bypasslogo": false, 
-  "bypassisland": false, 
   "esp": false,
-  "aimbot": false,
-  "bullet": false
+  "aimbot": false
 }
