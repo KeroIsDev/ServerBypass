@@ -1,5 +1,7 @@
 {
-  "esp": true,
+  "bypasslogo": false, 
+  "bypassisland": false, 
+  "esp": false,
   "aimbot": false,
   "bullet": false
 }
