@@ -1,4 +1,6 @@
 {
-  "esp": true,
-  "aimbot": true 
+  "features": {
+    "aimbot": true,
+    "radar": false
+  }
 }
