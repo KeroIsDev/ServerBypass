@@ -1,6 +1,6 @@
 {
 "ESP": true,
 "items":true,
-"aimbot":true,
+"aimbot":false,
 "bullet":true
 }
