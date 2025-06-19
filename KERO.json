@@ -1,12 +1,1 @@
 
-
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6F2CC","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6F29C","data": "1E FF 2F E1"}]}
-
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6FAE8","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6F740","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6F764","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6F794","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6FA4C","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6FBB4","data": "1E FF 2F E1"}]}
-{"patches": [{"type": "PATCH_LIB","lib": "libanogs.so","offset": "0x6FBE4","data": "1E FF 2F E1"}]}
