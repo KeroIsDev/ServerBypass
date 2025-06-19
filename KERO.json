@@ -1,6 +1,5 @@
 {
   "features": {
-    "aimbot": false,
-    "radar": false
+    "aimbot": false
   }
 }
