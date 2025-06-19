@@ -1,1 +1,1 @@
-aimbot=0
+aimbot=1
