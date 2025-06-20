@@ -1,5 +1,3 @@
 {
-  "features": {
-    "Config.AimBot.Enable": true
-  }
+    "aimbot": true
 }
