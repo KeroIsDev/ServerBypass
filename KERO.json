@@ -1,3 +1,4 @@
 {
-  "aimbot":true
+  "aimbot": true,
+  "radar": false
 }
